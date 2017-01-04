@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "YQ63ZZYZV7.com.nix.test.UniversalLinks",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
